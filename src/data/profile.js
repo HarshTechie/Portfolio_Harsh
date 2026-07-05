@@ -117,6 +117,26 @@ export const profile = {
   // order = display order
   projects: [
     {
+      title: 'MockMate',
+      role: 'Full Stack',
+      year: '2026',
+      meta: 'AI Placement Prep',
+      summary:
+        'An AI-powered placement-prep platform for Chitkara University, grounded in a verified, round-by-round company intelligence database — not generic advice. Features resume-aware mock interviews, a timed OA simulator with integrity detection, personalized prep plans, and a placement-cell analytics portal.',
+      stack: [
+        'Next.js',
+        'React',
+        'Prisma',
+        'PostgreSQL',
+        'Tailwind CSS',
+        'Gemini AI',
+      ],
+      github: 'https://github.com/HarshTechie/MockMate',
+      live: 'https://mockmate-smu9.onrender.com',
+      image: '/projects/mockmate.png',
+      featured: true,
+    },
+    {
       title: 'MployCheck',
       role: 'Full Stack',
       year: '2025',
