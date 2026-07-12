@@ -29,7 +29,7 @@ export const profile = {
     linkedin: 'https://www.linkedin.com/in/harsh-takk/',
     leetcode: 'https://leetcode.com/u/takharsh04',
     resume:
-      'https://drive.google.com/file/d/19NiUO9od6BVYNfCUFlIzA_-vRmpYBRwN/view?usp=sharing',
+      'https://drive.google.com/file/d/1iNxf5kdHDF5FxAvJ1Lo7YMZ61_ZTTLgF/view?usp=drive_link',
     email: 'mailto:tak.harshh@gmail.com',
   },
 
