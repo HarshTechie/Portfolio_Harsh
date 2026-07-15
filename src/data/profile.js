@@ -162,10 +162,10 @@ export const profile = {
       year: '2025',
       meta: 'E-Commerce Platform',
       summary:
-        'A full-stack e-commerce web application with a responsive frontend and a Prisma-powered backend for efficient database handling and CRUD operations.',
-      stack: ['HTML', 'CSS', 'JavaScript', 'Prisma', 'Node.js', 'MongoDB'],
+        'An AI-powered full-stack e-commerce web application with a responsive frontend and a Prisma-powered backend for efficient database handling and CRUD operations.',
+      stack: ['HTML', 'CSS', 'JavaScript', 'Prisma', 'Node.js', 'MongoDB,Stripe Payment Gateway, Google Gemini AI'],
       github: 'https://github.com/HarshTechie/Tech-Nexus',
-      live: 'https://technexus-alpha.vercel.app/',
+      live: 'https://technexus0609.vercel.app/',
       image: '/projects/technexus.png',
       featured: true,
     },
