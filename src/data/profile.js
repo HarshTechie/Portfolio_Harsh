@@ -163,7 +163,7 @@ export const profile = {
       meta: 'E-Commerce Platform',
       summary:
         'An AI-powered full-stack e-commerce web application with a responsive frontend and a Prisma-powered backend for efficient database handling and CRUD operations.',
-      stack: ['HTML', 'CSS', 'JavaScript', 'Prisma', 'Node.js', 'MongoDB,Stripe Payment Gateway, Google Gemini AI'],
+      stack: ['HTML', 'CSS', 'JavaScript', 'Prisma', 'Node.js', 'MongoDB','Stripe Payment Gateway', 'Google Gemini AI'],
       github: 'https://github.com/HarshTechie/Tech-Nexus',
       live: 'https://technexus0609.vercel.app/',
       image: '/projects/technexus.png',
